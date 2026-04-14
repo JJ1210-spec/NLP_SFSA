@@ -1,0 +1,21 @@
+# Core ML
+scikit-learn>=1.3.0
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Static embeddings
+gensim>=4.3.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# SBERT  (sentence-level)
+sentence-transformers>=2.2.0
+
+# BERT  (contextual)
+transformers>=4.35.0
+torch>=2.0.0        # or tensorflow if you prefer
+
+# InferSent needs these
+nltk>=3.8
